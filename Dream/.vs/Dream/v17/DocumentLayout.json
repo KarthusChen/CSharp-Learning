@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haird\\source\\repos\\Dream\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{918F3626-FB94-4A33-9251-C9A737E0ABB9}|Dream\\Dream.csproj|c:\\users\\haird\\source\\repos\\dream\\dream\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918F3626-FB94-4A33-9251-C9A737E0ABB9}|Dream\\Dream.csproj|solutionrelative:dream\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918F3626-FB94-4A33-9251-C9A737E0ABB9}|Dream\\Dream.csproj|c:\\users\\haird\\source\\repos\\dream\\dream\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918F3626-FB94-4A33-9251-C9A737E0ABB9}|Dream\\Dream.csproj|solutionrelative:dream\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918F3626-FB94-4A33-9251-C9A737E0ABB9}|Dream\\Dream.csproj|c:\\users\\haird\\source\\repos\\dream\\dream\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918F3626-FB94-4A33-9251-C9A737E0ABB9}|Dream\\Dream.csproj|solutionrelative:dream\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918F3626-FB94-4A33-9251-C9A737E0ABB9}|Dream\\Dream.csproj|c:\\users\\haird\\source\\repos\\dream\\dream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918F3626-FB94-4A33-9251-C9A737E0ABB9}|Dream\\Dream.csproj|solutionrelative:dream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Level.cs",
+              "DocumentMoniker": "C:\\Users\\haird\\source\\repos\\Dream\\Dream\\Level.cs",
+              "RelativeDocumentMoniker": "Dream\\Level.cs",
+              "ToolTip": "C:\\Users\\haird\\source\\repos\\Dream\\Dream\\Level.cs",
+              "RelativeToolTip": "Dream\\Level.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:43:13.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\haird\\source\\repos\\Dream\\Dream\\Monster.cs",
+              "RelativeDocumentMoniker": "Dream\\Monster.cs",
+              "ToolTip": "C:\\Users\\haird\\source\\repos\\Dream\\Dream\\Monster.cs",
+              "RelativeToolTip": "Dream\\Monster.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:34:58.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\haird\\source\\repos\\Dream\\Dream\\Player.cs",
+              "RelativeDocumentMoniker": "Dream\\Player.cs",
+              "ToolTip": "C:\\Users\\haird\\source\\repos\\Dream\\Dream\\Player.cs",
+              "RelativeToolTip": "Dream\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:18:24.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\haird\\source\\repos\\Dream\\Dream\\Program.cs",
+              "RelativeDocumentMoniker": "Dream\\Program.cs",
+              "ToolTip": "C:\\Users\\haird\\source\\repos\\Dream\\Dream\\Program.cs",
+              "RelativeToolTip": "Dream\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:16:56.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

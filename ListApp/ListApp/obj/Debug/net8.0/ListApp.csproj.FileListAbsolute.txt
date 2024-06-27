@@ -1,0 +1,14 @@
+C:\Users\haird\source\repos\ListApp\ListApp\bin\Debug\net8.0\ListApp.exe
+C:\Users\haird\source\repos\ListApp\ListApp\bin\Debug\net8.0\ListApp.deps.json
+C:\Users\haird\source\repos\ListApp\ListApp\bin\Debug\net8.0\ListApp.runtimeconfig.json
+C:\Users\haird\source\repos\ListApp\ListApp\bin\Debug\net8.0\ListApp.dll
+C:\Users\haird\source\repos\ListApp\ListApp\bin\Debug\net8.0\ListApp.pdb
+C:\Users\haird\source\repos\ListApp\ListApp\obj\Debug\net8.0\ListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haird\source\repos\ListApp\ListApp\obj\Debug\net8.0\ListApp.AssemblyInfoInputs.cache
+C:\Users\haird\source\repos\ListApp\ListApp\obj\Debug\net8.0\ListApp.AssemblyInfo.cs
+C:\Users\haird\source\repos\ListApp\ListApp\obj\Debug\net8.0\ListApp.csproj.CoreCompileInputs.cache
+C:\Users\haird\source\repos\ListApp\ListApp\obj\Debug\net8.0\ListApp.dll
+C:\Users\haird\source\repos\ListApp\ListApp\obj\Debug\net8.0\refint\ListApp.dll
+C:\Users\haird\source\repos\ListApp\ListApp\obj\Debug\net8.0\ListApp.pdb
+C:\Users\haird\source\repos\ListApp\ListApp\obj\Debug\net8.0\ListApp.genruntimeconfig.cache
+C:\Users\haird\source\repos\ListApp\ListApp\obj\Debug\net8.0\ref\ListApp.dll

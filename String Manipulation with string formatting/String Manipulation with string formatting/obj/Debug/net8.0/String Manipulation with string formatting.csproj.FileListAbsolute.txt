@@ -1,0 +1,14 @@
+C:\Users\haird\source\repos\String Manipulation with string formatting\String Manipulation with string formatting\bin\Debug\net8.0\String Manipulation with string formatting.exe
+C:\Users\haird\source\repos\String Manipulation with string formatting\String Manipulation with string formatting\bin\Debug\net8.0\String Manipulation with string formatting.deps.json
+C:\Users\haird\source\repos\String Manipulation with string formatting\String Manipulation with string formatting\bin\Debug\net8.0\String Manipulation with string formatting.runtimeconfig.json
+C:\Users\haird\source\repos\String Manipulation with string formatting\String Manipulation with string formatting\bin\Debug\net8.0\String Manipulation with string formatting.dll
+C:\Users\haird\source\repos\String Manipulation with string formatting\String Manipulation with string formatting\bin\Debug\net8.0\String Manipulation with string formatting.pdb
+C:\Users\haird\source\repos\String Manipulation with string formatting\String Manipulation with string formatting\obj\Debug\net8.0\String Manipulation with string formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haird\source\repos\String Manipulation with string formatting\String Manipulation with string formatting\obj\Debug\net8.0\String Manipulation with string formatting.AssemblyInfoInputs.cache
+C:\Users\haird\source\repos\String Manipulation with string formatting\String Manipulation with string formatting\obj\Debug\net8.0\String Manipulation with string formatting.AssemblyInfo.cs
+C:\Users\haird\source\repos\String Manipulation with string formatting\String Manipulation with string formatting\obj\Debug\net8.0\String Manipulation with string formatting.csproj.CoreCompileInputs.cache
+C:\Users\haird\source\repos\String Manipulation with string formatting\String Manipulation with string formatting\obj\Debug\net8.0\String Manipulation with string formatting.dll
+C:\Users\haird\source\repos\String Manipulation with string formatting\String Manipulation with string formatting\obj\Debug\net8.0\refint\String Manipulation with string formatting.dll
+C:\Users\haird\source\repos\String Manipulation with string formatting\String Manipulation with string formatting\obj\Debug\net8.0\String Manipulation with string formatting.pdb
+C:\Users\haird\source\repos\String Manipulation with string formatting\String Manipulation with string formatting\obj\Debug\net8.0\String Manipulation with string formatting.genruntimeconfig.cache
+C:\Users\haird\source\repos\String Manipulation with string formatting\String Manipulation with string formatting\obj\Debug\net8.0\ref\String Manipulation with string formatting.dll

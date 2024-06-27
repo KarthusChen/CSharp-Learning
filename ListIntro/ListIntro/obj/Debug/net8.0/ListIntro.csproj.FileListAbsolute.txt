@@ -1,0 +1,14 @@
+C:\Users\haird\source\repos\ListIntro\ListIntro\bin\Debug\net8.0\ListIntro.exe
+C:\Users\haird\source\repos\ListIntro\ListIntro\bin\Debug\net8.0\ListIntro.deps.json
+C:\Users\haird\source\repos\ListIntro\ListIntro\bin\Debug\net8.0\ListIntro.runtimeconfig.json
+C:\Users\haird\source\repos\ListIntro\ListIntro\bin\Debug\net8.0\ListIntro.dll
+C:\Users\haird\source\repos\ListIntro\ListIntro\bin\Debug\net8.0\ListIntro.pdb
+C:\Users\haird\source\repos\ListIntro\ListIntro\obj\Debug\net8.0\ListIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haird\source\repos\ListIntro\ListIntro\obj\Debug\net8.0\ListIntro.AssemblyInfoInputs.cache
+C:\Users\haird\source\repos\ListIntro\ListIntro\obj\Debug\net8.0\ListIntro.AssemblyInfo.cs
+C:\Users\haird\source\repos\ListIntro\ListIntro\obj\Debug\net8.0\ListIntro.csproj.CoreCompileInputs.cache
+C:\Users\haird\source\repos\ListIntro\ListIntro\obj\Debug\net8.0\ListIntro.dll
+C:\Users\haird\source\repos\ListIntro\ListIntro\obj\Debug\net8.0\refint\ListIntro.dll
+C:\Users\haird\source\repos\ListIntro\ListIntro\obj\Debug\net8.0\ListIntro.pdb
+C:\Users\haird\source\repos\ListIntro\ListIntro\obj\Debug\net8.0\ListIntro.genruntimeconfig.cache
+C:\Users\haird\source\repos\ListIntro\ListIntro\obj\Debug\net8.0\ref\ListIntro.dll

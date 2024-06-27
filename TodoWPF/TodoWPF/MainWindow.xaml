@@ -1,0 +1,36 @@
+﻿<Window x:Class="TodoWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TodoWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="400"
+        ResizeMode="NoResize">
+        
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="75"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="10"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="10"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Create Todo" Grid.Row="5" Grid.Column="1" Background="#FFBACEFF"/>
+
+        <TextBox Grid.Column="1" Grid.Row="3" TextChanged="TextBox_TextChanged" Background="#FFD8D6D6"/>
+        <ScrollViewer Grid.Column="1" Grid.Row="1" Background="#FFD0B8B8" >
+            <StackPanel>
+                
+            </StackPanel>
+        </ScrollViewer>
+
+    </Grid>
+</Window>

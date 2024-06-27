@@ -1,0 +1,14 @@
+C:\Users\haird\source\repos\Dream\Dream\bin\Debug\net8.0\Dream.exe
+C:\Users\haird\source\repos\Dream\Dream\bin\Debug\net8.0\Dream.deps.json
+C:\Users\haird\source\repos\Dream\Dream\bin\Debug\net8.0\Dream.runtimeconfig.json
+C:\Users\haird\source\repos\Dream\Dream\bin\Debug\net8.0\Dream.dll
+C:\Users\haird\source\repos\Dream\Dream\bin\Debug\net8.0\Dream.pdb
+C:\Users\haird\source\repos\Dream\Dream\obj\Debug\net8.0\Dream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haird\source\repos\Dream\Dream\obj\Debug\net8.0\Dream.AssemblyInfoInputs.cache
+C:\Users\haird\source\repos\Dream\Dream\obj\Debug\net8.0\Dream.AssemblyInfo.cs
+C:\Users\haird\source\repos\Dream\Dream\obj\Debug\net8.0\Dream.csproj.CoreCompileInputs.cache
+C:\Users\haird\source\repos\Dream\Dream\obj\Debug\net8.0\Dream.dll
+C:\Users\haird\source\repos\Dream\Dream\obj\Debug\net8.0\refint\Dream.dll
+C:\Users\haird\source\repos\Dream\Dream\obj\Debug\net8.0\Dream.pdb
+C:\Users\haird\source\repos\Dream\Dream\obj\Debug\net8.0\Dream.genruntimeconfig.cache
+C:\Users\haird\source\repos\Dream\Dream\obj\Debug\net8.0\ref\Dream.dll

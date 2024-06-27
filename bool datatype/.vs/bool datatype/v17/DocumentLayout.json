@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haird\\source\\repos\\bool datatype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6F042E-5021-47FE-8B03-38B4569BA946}|bool datatype\\bool datatype.csproj|c:\\users\\haird\\source\\repos\\bool datatype\\bool datatype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6F042E-5021-47FE-8B03-38B4569BA946}|bool datatype\\bool datatype.csproj|solutionrelative:bool datatype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\haird\\source\\repos\\bool datatype\\bool datatype\\Program.cs",
+              "RelativeDocumentMoniker": "bool datatype\\Program.cs",
+              "ToolTip": "C:\\Users\\haird\\source\\repos\\bool datatype\\bool datatype\\Program.cs",
+              "RelativeToolTip": "bool datatype\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:12:28.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

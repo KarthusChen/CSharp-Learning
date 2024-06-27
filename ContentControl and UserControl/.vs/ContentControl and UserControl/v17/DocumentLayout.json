@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haird\\source\\repos\\ContentControl and UserControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CF5C0B-F14D-4ECA-B043-B282073B6B63}|ContentControl and UserControl\\ContentControl and UserControl.csproj|c:\\users\\haird\\source\\repos\\contentcontrol and usercontrol\\contentcontrol and usercontrol\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CF5C0B-F14D-4ECA-B043-B282073B6B63}|ContentControl and UserControl\\ContentControl and UserControl.csproj|solutionrelative:contentcontrol and usercontrol\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CF5C0B-F14D-4ECA-B043-B282073B6B63}|ContentControl and UserControl\\ContentControl and UserControl.csproj|c:\\users\\haird\\source\\repos\\contentcontrol and usercontrol\\contentcontrol and usercontrol\\invoiceview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1CF5C0B-F14D-4ECA-B043-B282073B6B63}|ContentControl and UserControl\\ContentControl and UserControl.csproj|solutionrelative:contentcontrol and usercontrol\\invoiceview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CF5C0B-F14D-4ECA-B043-B282073B6B63}|ContentControl and UserControl\\ContentControl and UserControl.csproj|c:\\users\\haird\\source\\repos\\contentcontrol and usercontrol\\contentcontrol and usercontrol\\invoiceview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CF5C0B-F14D-4ECA-B043-B282073B6B63}|ContentControl and UserControl\\ContentControl and UserControl.csproj|solutionrelative:contentcontrol and usercontrol\\invoiceview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CF5C0B-F14D-4ECA-B043-B282073B6B63}|ContentControl and UserControl\\ContentControl and UserControl.csproj|c:\\users\\haird\\source\\repos\\contentcontrol and usercontrol\\contentcontrol and usercontrol\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1CF5C0B-F14D-4ECA-B043-B282073B6B63}|ContentControl and UserControl\\ContentControl and UserControl.csproj|solutionrelative:contentcontrol and usercontrol\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CF5C0B-F14D-4ECA-B043-B282073B6B63}|ContentControl and UserControl\\ContentControl and UserControl.csproj|c:\\users\\haird\\source\\repos\\contentcontrol and usercontrol\\contentcontrol and usercontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1CF5C0B-F14D-4ECA-B043-B282073B6B63}|ContentControl and UserControl\\ContentControl and UserControl.csproj|solutionrelative:contentcontrol and usercontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CF5C0B-F14D-4ECA-B043-B282073B6B63}|ContentControl and UserControl\\ContentControl and UserControl.csproj|c:\\users\\haird\\source\\repos\\contentcontrol and usercontrol\\contentcontrol and usercontrol\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CF5C0B-F14D-4ECA-B043-B282073B6B63}|ContentControl and UserControl\\ContentControl and UserControl.csproj|solutionrelative:contentcontrol and usercontrol\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\haird\\source\\repos\\ContentControl and UserControl\\ContentControl and UserControl\\LoginView.xaml",
+              "RelativeDocumentMoniker": "ContentControl and UserControl\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\haird\\source\\repos\\ContentControl and UserControl\\ContentControl and UserControl\\LoginView.xaml",
+              "RelativeToolTip": "ContentControl and UserControl\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T23:50:13.267Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\haird\\source\\repos\\ContentControl and UserControl\\ContentControl and UserControl\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "ContentControl and UserControl\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\haird\\source\\repos\\ContentControl and UserControl\\ContentControl and UserControl\\LoginView.xaml.cs",
+              "RelativeToolTip": "ContentControl and UserControl\\LoginView.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwB4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T23:50:39.141Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiceView.xaml",
+              "DocumentMoniker": "C:\\Users\\haird\\source\\repos\\ContentControl and UserControl\\ContentControl and UserControl\\InvoiceView.xaml",
+              "RelativeDocumentMoniker": "ContentControl and UserControl\\InvoiceView.xaml",
+              "ToolTip": "C:\\Users\\haird\\source\\repos\\ContentControl and UserControl\\ContentControl and UserControl\\InvoiceView.xaml",
+              "RelativeToolTip": "ContentControl and UserControl\\InvoiceView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T01:36:14.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\haird\\source\\repos\\ContentControl and UserControl\\ContentControl and UserControl\\InvoiceView.xaml.cs",
+              "RelativeDocumentMoniker": "ContentControl and UserControl\\InvoiceView.xaml.cs",
+              "ToolTip": "C:\\Users\\haird\\source\\repos\\ContentControl and UserControl\\ContentControl and UserControl\\InvoiceView.xaml.cs",
+              "RelativeToolTip": "ContentControl and UserControl\\InvoiceView.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T01:41:08.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\haird\\source\\repos\\ContentControl and UserControl\\ContentControl and UserControl\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ContentControl and UserControl\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\haird\\source\\repos\\ContentControl and UserControl\\ContentControl and UserControl\\MainWindow.xaml",
+              "RelativeToolTip": "ContentControl and UserControl\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T23:46:35.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\haird\\source\\repos\\ContentControl and UserControl\\ContentControl and UserControl\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ContentControl and UserControl\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\haird\\source\\repos\\ContentControl and UserControl\\ContentControl and UserControl\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ContentControl and UserControl\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T23:46:35.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\haird\source\repos\TheZooManager\TheZooManager\bin\Debug\TheZooManager.exe.config
+C:\Users\haird\source\repos\TheZooManager\TheZooManager\bin\Debug\TheZooManager.exe
+C:\Users\haird\source\repos\TheZooManager\TheZooManager\bin\Debug\TheZooManager.pdb
+C:\Users\haird\source\repos\TheZooManager\TheZooManager\obj\Debug\TheZooManager.csproj.AssemblyReference.cache
+C:\Users\haird\source\repos\TheZooManager\TheZooManager\obj\Debug\MainWindow.g.cs
+C:\Users\haird\source\repos\TheZooManager\TheZooManager\obj\Debug\App.g.cs
+C:\Users\haird\source\repos\TheZooManager\TheZooManager\obj\Debug\TheZooManager_MarkupCompile.cache
+C:\Users\haird\source\repos\TheZooManager\TheZooManager\obj\Debug\TheZooManager_MarkupCompile.lref
+C:\Users\haird\source\repos\TheZooManager\TheZooManager\obj\Debug\MainWindow.baml
+C:\Users\haird\source\repos\TheZooManager\TheZooManager\obj\Debug\TheZooManager.g.resources
+C:\Users\haird\source\repos\TheZooManager\TheZooManager\obj\Debug\TheZooManager.Properties.Resources.resources
+C:\Users\haird\source\repos\TheZooManager\TheZooManager\obj\Debug\TheZooManager.csproj.GenerateResource.cache
+C:\Users\haird\source\repos\TheZooManager\TheZooManager\obj\Debug\TheZooManager.csproj.CoreCompileInputs.cache
+C:\Users\haird\source\repos\TheZooManager\TheZooManager\obj\Debug\TheZooManager.exe
+C:\Users\haird\source\repos\TheZooManager\TheZooManager\obj\Debug\TheZooManager.pdb

@@ -1,0 +1,14 @@
+C:\Users\haird\source\repos\Order of Evaluation\Order of Evaluation\obj\Debug\net8.0\Order of Evaluation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haird\source\repos\Order of Evaluation\Order of Evaluation\obj\Debug\net8.0\Order of Evaluation.AssemblyInfoInputs.cache
+C:\Users\haird\source\repos\Order of Evaluation\Order of Evaluation\obj\Debug\net8.0\Order of Evaluation.AssemblyInfo.cs
+C:\Users\haird\source\repos\Order of Evaluation\Order of Evaluation\obj\Debug\net8.0\Order of Evaluation.csproj.CoreCompileInputs.cache
+C:\Users\haird\source\repos\Order of Evaluation\Order of Evaluation\bin\Debug\net8.0\Order of Evaluation.exe
+C:\Users\haird\source\repos\Order of Evaluation\Order of Evaluation\bin\Debug\net8.0\Order of Evaluation.deps.json
+C:\Users\haird\source\repos\Order of Evaluation\Order of Evaluation\bin\Debug\net8.0\Order of Evaluation.runtimeconfig.json
+C:\Users\haird\source\repos\Order of Evaluation\Order of Evaluation\bin\Debug\net8.0\Order of Evaluation.dll
+C:\Users\haird\source\repos\Order of Evaluation\Order of Evaluation\bin\Debug\net8.0\Order of Evaluation.pdb
+C:\Users\haird\source\repos\Order of Evaluation\Order of Evaluation\obj\Debug\net8.0\Order of Evaluation.dll
+C:\Users\haird\source\repos\Order of Evaluation\Order of Evaluation\obj\Debug\net8.0\refint\Order of Evaluation.dll
+C:\Users\haird\source\repos\Order of Evaluation\Order of Evaluation\obj\Debug\net8.0\Order of Evaluation.pdb
+C:\Users\haird\source\repos\Order of Evaluation\Order of Evaluation\obj\Debug\net8.0\Order of Evaluation.genruntimeconfig.cache
+C:\Users\haird\source\repos\Order of Evaluation\Order of Evaluation\obj\Debug\net8.0\ref\Order of Evaluation.dll

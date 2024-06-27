@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haird\\source\\repos\\String Manipulation with string formatting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6789C71-7BE9-4999-A4A5-2C0F7B9FC60A}|String Manipulation with string formatting\\String Manipulation with string formatting.csproj|c:\\users\\haird\\source\\repos\\string manipulation with string formatting\\string manipulation with string formatting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6789C71-7BE9-4999-A4A5-2C0F7B9FC60A}|String Manipulation with string formatting\\String Manipulation with string formatting.csproj|solutionrelative:string manipulation with string formatting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\haird\\source\\repos\\String Manipulation with string formatting\\String Manipulation with string formatting\\Program.cs",
+              "RelativeDocumentMoniker": "String Manipulation with string formatting\\Program.cs",
+              "ToolTip": "C:\\Users\\haird\\source\\repos\\String Manipulation with string formatting\\String Manipulation with string formatting\\Program.cs",
+              "RelativeToolTip": "String Manipulation with string formatting\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T04:14:34.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

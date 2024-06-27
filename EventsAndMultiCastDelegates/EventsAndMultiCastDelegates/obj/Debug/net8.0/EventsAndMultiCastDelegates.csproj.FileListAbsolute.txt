@@ -1,0 +1,14 @@
+C:\Users\haird\source\repos\EventsAndMultiCastDelegates\EventsAndMultiCastDelegates\bin\Debug\net8.0\EventsAndMultiCastDelegates.exe
+C:\Users\haird\source\repos\EventsAndMultiCastDelegates\EventsAndMultiCastDelegates\bin\Debug\net8.0\EventsAndMultiCastDelegates.deps.json
+C:\Users\haird\source\repos\EventsAndMultiCastDelegates\EventsAndMultiCastDelegates\bin\Debug\net8.0\EventsAndMultiCastDelegates.runtimeconfig.json
+C:\Users\haird\source\repos\EventsAndMultiCastDelegates\EventsAndMultiCastDelegates\bin\Debug\net8.0\EventsAndMultiCastDelegates.dll
+C:\Users\haird\source\repos\EventsAndMultiCastDelegates\EventsAndMultiCastDelegates\bin\Debug\net8.0\EventsAndMultiCastDelegates.pdb
+C:\Users\haird\source\repos\EventsAndMultiCastDelegates\EventsAndMultiCastDelegates\obj\Debug\net8.0\EventsAndMultiCastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haird\source\repos\EventsAndMultiCastDelegates\EventsAndMultiCastDelegates\obj\Debug\net8.0\EventsAndMultiCastDelegates.AssemblyInfoInputs.cache
+C:\Users\haird\source\repos\EventsAndMultiCastDelegates\EventsAndMultiCastDelegates\obj\Debug\net8.0\EventsAndMultiCastDelegates.AssemblyInfo.cs
+C:\Users\haird\source\repos\EventsAndMultiCastDelegates\EventsAndMultiCastDelegates\obj\Debug\net8.0\EventsAndMultiCastDelegates.csproj.CoreCompileInputs.cache
+C:\Users\haird\source\repos\EventsAndMultiCastDelegates\EventsAndMultiCastDelegates\obj\Debug\net8.0\EventsAndMultiCastDelegates.dll
+C:\Users\haird\source\repos\EventsAndMultiCastDelegates\EventsAndMultiCastDelegates\obj\Debug\net8.0\refint\EventsAndMultiCastDelegates.dll
+C:\Users\haird\source\repos\EventsAndMultiCastDelegates\EventsAndMultiCastDelegates\obj\Debug\net8.0\EventsAndMultiCastDelegates.pdb
+C:\Users\haird\source\repos\EventsAndMultiCastDelegates\EventsAndMultiCastDelegates\obj\Debug\net8.0\EventsAndMultiCastDelegates.genruntimeconfig.cache
+C:\Users\haird\source\repos\EventsAndMultiCastDelegates\EventsAndMultiCastDelegates\obj\Debug\net8.0\ref\EventsAndMultiCastDelegates.dll

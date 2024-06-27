@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haird\\source\\repos\\ClassApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBC7B99-FBDF-415A-BCA4-42047F97E5C1}|ClassApp\\ClassApp.csproj|c:\\users\\haird\\source\\repos\\classapp\\classapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBC7B99-FBDF-415A-BCA4-42047F97E5C1}|ClassApp\\ClassApp.csproj|solutionrelative:classapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBC7B99-FBDF-415A-BCA4-42047F97E5C1}|ClassApp\\ClassApp.csproj|c:\\users\\haird\\source\\repos\\classapp\\classapp\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBC7B99-FBDF-415A-BCA4-42047F97E5C1}|ClassApp\\ClassApp.csproj|solutionrelative:classapp\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBC7B99-FBDF-415A-BCA4-42047F97E5C1}|ClassApp\\ClassApp.csproj|c:\\users\\haird\\source\\repos\\classapp\\classapp\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBC7B99-FBDF-415A-BCA4-42047F97E5C1}|ClassApp\\ClassApp.csproj|solutionrelative:classapp\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\haird\\source\\repos\\ClassApp\\ClassApp\\Car.cs",
+              "RelativeDocumentMoniker": "ClassApp\\Car.cs",
+              "ToolTip": "C:\\Users\\haird\\source\\repos\\ClassApp\\ClassApp\\Car.cs",
+              "RelativeToolTip": "ClassApp\\Car.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAzwBcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T00:25:47.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\haird\\source\\repos\\ClassApp\\ClassApp\\Customer.cs",
+              "RelativeDocumentMoniker": "ClassApp\\Customer.cs",
+              "ToolTip": "C:\\Users\\haird\\source\\repos\\ClassApp\\ClassApp\\Customer.cs",
+              "RelativeToolTip": "ClassApp\\Customer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T23:29:30.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\haird\\source\\repos\\ClassApp\\ClassApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClassApp\\Program.cs",
+              "ToolTip": "C:\\Users\\haird\\source\\repos\\ClassApp\\ClassApp\\Program.cs",
+              "RelativeToolTip": "ClassApp\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAzwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:03:11.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

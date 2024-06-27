@@ -1,0 +1,14 @@
+C:\Users\haird\source\repos\Inheritage\Inheritage\bin\Debug\net8.0\Inheritage.exe
+C:\Users\haird\source\repos\Inheritage\Inheritage\bin\Debug\net8.0\Inheritage.deps.json
+C:\Users\haird\source\repos\Inheritage\Inheritage\bin\Debug\net8.0\Inheritage.runtimeconfig.json
+C:\Users\haird\source\repos\Inheritage\Inheritage\bin\Debug\net8.0\Inheritage.dll
+C:\Users\haird\source\repos\Inheritage\Inheritage\bin\Debug\net8.0\Inheritage.pdb
+C:\Users\haird\source\repos\Inheritage\Inheritage\obj\Debug\net8.0\Inheritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haird\source\repos\Inheritage\Inheritage\obj\Debug\net8.0\Inheritage.AssemblyInfoInputs.cache
+C:\Users\haird\source\repos\Inheritage\Inheritage\obj\Debug\net8.0\Inheritage.AssemblyInfo.cs
+C:\Users\haird\source\repos\Inheritage\Inheritage\obj\Debug\net8.0\Inheritage.csproj.CoreCompileInputs.cache
+C:\Users\haird\source\repos\Inheritage\Inheritage\obj\Debug\net8.0\Inheritage.dll
+C:\Users\haird\source\repos\Inheritage\Inheritage\obj\Debug\net8.0\refint\Inheritage.dll
+C:\Users\haird\source\repos\Inheritage\Inheritage\obj\Debug\net8.0\Inheritage.pdb
+C:\Users\haird\source\repos\Inheritage\Inheritage\obj\Debug\net8.0\Inheritage.genruntimeconfig.cache
+C:\Users\haird\source\repos\Inheritage\Inheritage\obj\Debug\net8.0\ref\Inheritage.dll

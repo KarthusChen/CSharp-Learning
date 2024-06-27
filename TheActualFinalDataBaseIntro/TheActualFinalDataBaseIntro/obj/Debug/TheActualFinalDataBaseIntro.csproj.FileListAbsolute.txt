@@ -1,0 +1,5 @@
+C:\Users\haird\source\repos\TheActualFinalDataBaseIntro\TheActualFinalDataBaseIntro\obj\Debug\TheActualFinalDataBaseIntro.csproj.AssemblyReference.cache
+C:\Users\haird\source\repos\TheActualFinalDataBaseIntro\TheActualFinalDataBaseIntro\obj\Debug\MainWindow.g.cs
+C:\Users\haird\source\repos\TheActualFinalDataBaseIntro\TheActualFinalDataBaseIntro\obj\Debug\App.g.cs
+C:\Users\haird\source\repos\TheActualFinalDataBaseIntro\TheActualFinalDataBaseIntro\obj\Debug\TheActualFinalDataBaseIntro_MarkupCompile.cache
+C:\Users\haird\source\repos\TheActualFinalDataBaseIntro\TheActualFinalDataBaseIntro\obj\Debug\TheActualFinalDataBaseIntro_MarkupCompile.lref

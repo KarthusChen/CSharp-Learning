@@ -1,0 +1,14 @@
+C:\Users\haird\source\repos\FortuneTeller\FortuneTeller\obj\Debug\net8.0\FortuneTeller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haird\source\repos\FortuneTeller\FortuneTeller\obj\Debug\net8.0\FortuneTeller.AssemblyInfoInputs.cache
+C:\Users\haird\source\repos\FortuneTeller\FortuneTeller\obj\Debug\net8.0\FortuneTeller.AssemblyInfo.cs
+C:\Users\haird\source\repos\FortuneTeller\FortuneTeller\obj\Debug\net8.0\FortuneTeller.csproj.CoreCompileInputs.cache
+C:\Users\haird\source\repos\FortuneTeller\FortuneTeller\bin\Debug\net8.0\FortuneTeller.exe
+C:\Users\haird\source\repos\FortuneTeller\FortuneTeller\bin\Debug\net8.0\FortuneTeller.deps.json
+C:\Users\haird\source\repos\FortuneTeller\FortuneTeller\bin\Debug\net8.0\FortuneTeller.runtimeconfig.json
+C:\Users\haird\source\repos\FortuneTeller\FortuneTeller\bin\Debug\net8.0\FortuneTeller.dll
+C:\Users\haird\source\repos\FortuneTeller\FortuneTeller\bin\Debug\net8.0\FortuneTeller.pdb
+C:\Users\haird\source\repos\FortuneTeller\FortuneTeller\obj\Debug\net8.0\FortuneTeller.dll
+C:\Users\haird\source\repos\FortuneTeller\FortuneTeller\obj\Debug\net8.0\refint\FortuneTeller.dll
+C:\Users\haird\source\repos\FortuneTeller\FortuneTeller\obj\Debug\net8.0\FortuneTeller.pdb
+C:\Users\haird\source\repos\FortuneTeller\FortuneTeller\obj\Debug\net8.0\FortuneTeller.genruntimeconfig.cache
+C:\Users\haird\source\repos\FortuneTeller\FortuneTeller\obj\Debug\net8.0\ref\FortuneTeller.dll

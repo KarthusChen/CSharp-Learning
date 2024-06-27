@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haird\\source\\repos\\TheZooManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TheZooManager||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F2D0B7-9D58-48F0-9677-250D6B7AF0AE}|TheZooManager\\TheZooManager.csproj|C:\\Users\\haird\\source\\repos\\TheZooManager\\thezoomanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{87F2D0B7-9D58-48F0-9677-250D6B7AF0AE}|TheZooManager\\TheZooManager.csproj|solutionrelative:thezoomanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LINCOLINCOLIN_PANJUTORIALSSQL/DataBaseIntro/sa/SqlTable/dbo.Zoo.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F2D0B7-9D58-48F0-9677-250D6B7AF0AE}|TheZooManager\\TheZooManager.csproj|C:\\Users\\haird\\source\\repos\\TheZooManager\\thezoomanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F2D0B7-9D58-48F0-9677-250D6B7AF0AE}|TheZooManager\\TheZooManager.csproj|solutionrelative:thezoomanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F2D0B7-9D58-48F0-9677-250D6B7AF0AE}|TheZooManager\\TheZooManager.csproj|C:\\Users\\haird\\source\\repos\\TheZooManager\\thezoomanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{87F2D0B7-9D58-48F0-9677-250D6B7AF0AE}|TheZooManager\\TheZooManager.csproj|solutionrelative:thezoomanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F2D0B7-9D58-48F0-9677-250D6B7AF0AE}|TheZooManager\\TheZooManager.csproj|C:\\Users\\haird\\source\\repos\\TheZooManager\\thezoomanager\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{87F2D0B7-9D58-48F0-9677-250D6B7AF0AE}|TheZooManager\\TheZooManager.csproj|solutionrelative:thezoomanager\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F2D0B7-9D58-48F0-9677-250D6B7AF0AE}|TheZooManager\\TheZooManager.csproj|c:\\users\\haird\\source\\repos\\thezoomanager\\thezoomanager\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Zoo [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LINCOLINCOLIN_PANJUTORIALSSQL/DataBaseIntro/sa/SqlTable/dbo.Zoo.sql",
+              "ToolTip": "dbo.Zoo [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-27T21:40:22.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TheZooManager",
+              "DocumentMoniker": "C:\\Users\\haird\\source\\repos\\TheZooManager\\TheZooManager\\TheZooManager.csproj",
+              "RelativeDocumentMoniker": "TheZooManager\\TheZooManager.csproj",
+              "ToolTip": "C:\\Users\\haird\\source\\repos\\TheZooManager\\TheZooManager\\TheZooManager.csproj",
+              "RelativeToolTip": "TheZooManager\\TheZooManager.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-27T21:31:31.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\haird\\source\\repos\\TheZooManager\\TheZooManager\\App.xaml",
+              "RelativeDocumentMoniker": "TheZooManager\\App.xaml",
+              "ToolTip": "C:\\Users\\haird\\source\\repos\\TheZooManager\\TheZooManager\\App.xaml",
+              "RelativeToolTip": "TheZooManager\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-27T21:30:17.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\haird\\source\\repos\\TheZooManager\\TheZooManager\\App.config",
+              "RelativeDocumentMoniker": "TheZooManager\\App.config",
+              "ToolTip": "C:\\Users\\haird\\source\\repos\\TheZooManager\\TheZooManager\\App.config",
+              "RelativeToolTip": "TheZooManager\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-27T21:25:57.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\haird\\source\\repos\\TheZooManager\\TheZooManager\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TheZooManager\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\haird\\source\\repos\\TheZooManager\\TheZooManager\\MainWindow.xaml",
+              "RelativeToolTip": "TheZooManager\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-27T21:20:37.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\haird\\source\\repos\\TheZooManager\\TheZooManager\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TheZooManager\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\haird\\source\\repos\\TheZooManager\\TheZooManager\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TheZooManager\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T21:20:37.848Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

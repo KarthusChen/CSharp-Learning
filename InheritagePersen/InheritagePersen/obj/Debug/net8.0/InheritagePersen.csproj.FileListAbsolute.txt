@@ -1,0 +1,14 @@
+C:\Users\haird\source\repos\InheritagePersen\InheritagePersen\bin\Debug\net8.0\InheritagePersen.exe
+C:\Users\haird\source\repos\InheritagePersen\InheritagePersen\bin\Debug\net8.0\InheritagePersen.deps.json
+C:\Users\haird\source\repos\InheritagePersen\InheritagePersen\bin\Debug\net8.0\InheritagePersen.runtimeconfig.json
+C:\Users\haird\source\repos\InheritagePersen\InheritagePersen\bin\Debug\net8.0\InheritagePersen.dll
+C:\Users\haird\source\repos\InheritagePersen\InheritagePersen\bin\Debug\net8.0\InheritagePersen.pdb
+C:\Users\haird\source\repos\InheritagePersen\InheritagePersen\obj\Debug\net8.0\InheritagePersen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haird\source\repos\InheritagePersen\InheritagePersen\obj\Debug\net8.0\InheritagePersen.AssemblyInfoInputs.cache
+C:\Users\haird\source\repos\InheritagePersen\InheritagePersen\obj\Debug\net8.0\InheritagePersen.AssemblyInfo.cs
+C:\Users\haird\source\repos\InheritagePersen\InheritagePersen\obj\Debug\net8.0\InheritagePersen.csproj.CoreCompileInputs.cache
+C:\Users\haird\source\repos\InheritagePersen\InheritagePersen\obj\Debug\net8.0\InheritagePersen.dll
+C:\Users\haird\source\repos\InheritagePersen\InheritagePersen\obj\Debug\net8.0\refint\InheritagePersen.dll
+C:\Users\haird\source\repos\InheritagePersen\InheritagePersen\obj\Debug\net8.0\InheritagePersen.pdb
+C:\Users\haird\source\repos\InheritagePersen\InheritagePersen\obj\Debug\net8.0\InheritagePersen.genruntimeconfig.cache
+C:\Users\haird\source\repos\InheritagePersen\InheritagePersen\obj\Debug\net8.0\ref\InheritagePersen.dll

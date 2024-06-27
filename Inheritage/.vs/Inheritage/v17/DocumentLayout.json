@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haird\\source\\repos\\Inheritage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{770CF8EB-2CA6-4EA7-A731-65EEF63512E7}|Inheritage\\Inheritage.csproj|c:\\users\\haird\\source\\repos\\inheritage\\inheritage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770CF8EB-2CA6-4EA7-A731-65EEF63512E7}|Inheritage\\Inheritage.csproj|solutionrelative:inheritage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\haird\\source\\repos\\Inheritage\\Inheritage\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritage\\Program.cs",
+              "ToolTip": "C:\\Users\\haird\\source\\repos\\Inheritage\\Inheritage\\Program.cs",
+              "RelativeToolTip": "Inheritage\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T23:00:41.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
